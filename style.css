@@ -622,12 +622,15 @@ h2{
     .contact .row form .btn{
     width: 115px;
      }
-     .icon a{
+   
+
+}
+@media (max-width:400px){
+    .icon a{
         display: none;
        
        
      }
-
 }
     
 @media (max-width:700px){

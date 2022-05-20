@@ -627,6 +627,9 @@ h2{
        
        
      }
+     *{
+        transition: none;
+     }
 
 }
 @media (max-width:400px){
@@ -650,6 +653,7 @@ h2{
     .about .row .content a{
         width: 115px;
     }
+    
 }
 @media(max-width:592px){
     .main .content a{
